@@ -129,6 +129,7 @@ body{
 
 /* Start of footer styling */
 footer{
+    margin-top: 50px;
     color: white;
     border-top: 5px solid #F1EFEC;
 }
