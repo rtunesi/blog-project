@@ -27,6 +27,12 @@ body{
 /* End of header styling */
 
 /* Start of blog boxes styling */
+.recent-posts{
+    font-weight: 750;
+    text-align: center;
+    color: white
+}
+
 .blog-boxes{
     margin-top: 50px;
     margin-bottom:
