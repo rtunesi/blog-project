@@ -28,7 +28,8 @@ body{
 
 /* Start of blog boxes styling */
 .blog-boxes{
-    margin-top: 50px
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .box-line1{
@@ -125,3 +126,9 @@ body{
     margin-left: 15px;
 }
 /* End of blog boxes styling */
+
+/* Start of footer styling */
+footer{
+    color: white;
+    border-top: 5px solid #F1EFEC;
+}
