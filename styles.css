@@ -30,7 +30,9 @@ body{
 #recent-posts{
     font-weight: 750;
     text-align: center;
-    color: white
+    color: white;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
 }
 
 #other-posts{
@@ -38,6 +40,8 @@ body{
     font-size: 1.75rem;
     color: white;
     text-align: center;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
 }
 
 .blog-boxes{
