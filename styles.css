@@ -21,3 +21,42 @@ body{
 .top-page h2{
     margin-left: 10px;
 }
+
+.blog-boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    gap: 10px;
+}
+
+.blog-box1{
+    background-color: #F1EFEC;
+    height: 200px;
+    width: 350px;
+    border: 5px solid black;
+    border-bottom: 10px solid black;
+    border-radius: 10px;
+}
+
+.blog-box1 h1, p{
+    margin: 5px;
+}
+
+.blog-box2{
+    background-color: #F1EFEC;
+    height: 200px;
+    width: 350px;
+    border: 5px solid black;
+    border-bottom: 10px solid black;
+    border-radius: 10px;
+}
+
+.blog-box3{
+    background-color: #F1EFEC;
+    height: 200px;
+    width: 350px;
+    border: 5px solid black;
+    border-bottom: 10px solid black;
+    border-radius: 10px;
+}
