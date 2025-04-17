@@ -1,5 +1,13 @@
+.montserrat{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
 body{
     background-color: #F1EFEC;
+    font-family: "Montserrat";
 }
 
 .top-page{
