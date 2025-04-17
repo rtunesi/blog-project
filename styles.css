@@ -27,15 +27,21 @@ body{
 /* End of header styling */
 
 /* Start of blog boxes styling */
-.recent-posts{
+#recent-posts{
     font-weight: 750;
     text-align: center;
     color: white
 }
 
+#other-posts{
+    font-weight: 700;
+    font-size: 1.75rem;
+    color: white;
+    text-align: center;
+}
+
 .blog-boxes{
     margin-top: 50px;
-    margin-bottom:
 }
 
 .box-line1{
@@ -43,7 +49,7 @@ body{
     justify-content: center;
     align-items: center;
     margin: 10px;
-    gap: 10px;
+    gap: 20px;
 }
 
 .blog-box1{
@@ -86,11 +92,12 @@ body{
 }
 
 .box-line2{
+    margin-top: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 10px;
-    gap: 10px;
+    gap: 20px;
 }
 
 .blog-box4{
