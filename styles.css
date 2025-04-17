@@ -6,17 +6,16 @@
 }
 
 body{
-    background-color: #F1EFEC;
+    background-color: #D4C9BE;
     font-family: "Montserrat";
 }
 
 .top-page{
     color: white;
-    background-color: black;
     height: 50px;
     display: flex;
     align-items: center;
-    border-bottom: 5px solid green
+    border-bottom: 5px solid #F1EFEC
 }
 
 .top-page h2{
